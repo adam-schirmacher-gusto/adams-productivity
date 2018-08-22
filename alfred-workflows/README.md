@@ -4,6 +4,16 @@ These are workflows I have created which I find useful. Please do use them, BUT 
 
 Note that Alfred workflows required the paid version, which I highly recommend.
 
+# Enable accessibility for Alfred
+
+**Do this if you want anything below to work right!**
+
+If you want Alfred to do useful things with workflows, you have to tell your mac to allow it.
+
+1. Click the Apple icon in top-left >> System Preferences >> Security & Privacy >> Privacy Tab >> Accessibility
+1. Click the padlock to allow you to change stuff. Password is same as for your Mac.
+1. Add Alfred to the list and make sure the box is checked. It's usually found under your "Applications" folder
+
 # Microphone Mute Toggle
 
 ### What it does
