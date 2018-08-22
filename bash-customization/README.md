@@ -27,3 +27,29 @@ Try it with `ghpr` while on a branch. Note that I haven't invested much into err
     * i.e. if you want your code to get merged into `origin/development`, your local branch needs to track `origin/development`
 * the name of your local branch matches the name you pushed it to in the remote repo
     * i.e. local branch `fix-for-119` is pushed to `origin` as `origin/fix-for-119`
+
+# git aliases
+
+This is my personal git alias setup. Everyone has their own preferences, so you may or may not find it useful. YMMV.
+
+The key take-away is that **if you are experienced with git and still often typing full git commands, you can fix this!**.
+
+A few things I'll point out as being very useful commands.
+
+`gb` = more verbose `git branch`
+
+![](gb-screenshot.png)
+
+`gcane` = roll staged changes into HEAD commit
+
+(*"oh crap, I should have included these changes in the last commit"*)
+
+![](gcane-screenshot.png)
+
+`gau` = `git add` all modified files
+
+![](gau-screenshot.png)
+
+`gshns` = show the files changed in a commit
+
+![](gshns-screenshot.png)
