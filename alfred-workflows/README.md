@@ -51,6 +51,7 @@ Takes the selected text (in any app) and turns it into a short bitly URL, which 
 1. Test it by pressing Cmd+Ctrl+Option+B
   1. You should see an error message about credentials
 1. Get your bitly login and API key from http://bitly.com/a/your_api_key
+  1. Note that you can use your Google account to log in
 1. Create a file at `~/.bitly_credentials` with content:
 
     ```
