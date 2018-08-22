@@ -2,6 +2,8 @@
 
 These are workflows I have created which I find useful. Please do use them, BUT (!!!) you need to read the instructions. Most of them require some extra setup outside of just importing the Alfred workflow.
 
+Note that Alfred workflows required the paid version, which I highly recommend.
+
 # Microphone Mute Toggle
 
 ### What it does
