@@ -19,3 +19,21 @@ This one is easy - just import the workflow.
 Press Cmd+Ctrl+Option+K. You will see a message pop up like this:
 
 ![Microphone mute screenshot](mic-mute-toggle-screenshot.png)
+
+# Cisco VPN Auto-push
+
+## What it does
+
+This workflow automates the process of reconnecting your VPN. It opens Cisco VPN, types "push" as the password, and presses Enter. This allows you to reconnect your VPN without ever taking your hands off the keyboard.
+
+## Setup
+
+Open your Cisco VPN settings by pulling up the UI, clicking the App name in the top bar and choosing preferences. Set them as such:
+
+![Cisco VPN settings](cisco-vpn-settings.png)
+
+...then import the workflow.
+
+## Use
+
+Press your Alfred shortcut keys and type "cv" (as in "connect VPN") as keyword.
