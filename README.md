@@ -17,3 +17,5 @@ Bookmark these and use Alfred to create issues with only keystrokes!
 * IT Task: https://jira.gustocorp.com/secure/CreateIssueDetails!init.jspa?pid=10601&issuetype=3
 * ENV Maintenance: https://jira.gustocorp.com/secure/CreateIssueDetails!init.jspa?pid=10400&issuetype=10401
 * ENV Meals: https://jira.gustocorp.com/secure/CreateIssueDetails!init.jspa?pid=10400&issuetype=13500
+
+Note: I got the API syntax [here](https://confluence.atlassian.com/jirakb/creating-issues-via-direct-html-links-159474.html), found project IDs [here](https://jira.gustocorp.com/rest/api/2/project/) and issue type IDs [here](https://jira.gustocorp.com/rest/api/2/issuetype/).
