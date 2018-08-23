@@ -9,3 +9,11 @@ Adam's productivity tips, tricks, alfred workflows and more
 [**Bash Customizations**](bash-customizations/README.md):
 * Create and open PR's from the command line
 * Use git aliases for common commands
+
+**Create-a-JIRA quick links**
+
+Bookmark these and use Alfred to create issues with only keystrokes!
+
+* IT Task: https://jira.gustocorp.com/secure/CreateIssueDetails!init.jspa?pid=10601&issuetype=3
+* ENV Maintenance: https://jira.gustocorp.com/secure/CreateIssueDetails!init.jspa?pid=10400&issuetype=10401
+* ENV Meals: https://jira.gustocorp.com/secure/CreateIssueDetails!init.jspa?pid=10400&issuetype=13500
